@@ -1,6 +1,9 @@
 import Link from 'next/link'
 import React from 'react'
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import Cart from '../Cart/page'
+/* eslint-enable @typescript-eslint/no-unused-vars */
+
 
 const Cartprofile = () => {
   return (

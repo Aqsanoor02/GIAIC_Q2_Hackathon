@@ -8,7 +8,7 @@ const FlashSale = () => {
                <div className='w-[Hug(211px)] space-y-6 h-Fixed(103px)] '>
                 <div className='w-[64px] h-[20px] justify-between  items-center flex'>
                     <div className='w-[30px] h-[40px] pr-3 mr-4 rounded-sm bg-[#DB4444]'></div>
-                    <div className='text-[#DB4444] text-[16px] '>Today's</div>
+                    <div className='text-[#DB4444] text-[16px] '>Today&apos;s</div>
                 </div>
                 <div className='text-[36px] leading-[48px] font-[Inter] w-[211px] h-[48px]'>Flash Sales</div>
                 
