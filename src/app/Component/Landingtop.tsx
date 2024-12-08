@@ -9,13 +9,13 @@ const Landingtop = () => {
       <div className="w-[217px] h-[344px] space-y-3">
         <div className="">
           <Link href={""}>
-            Women's Fashion
+            Women&apos;s Fashion
             <ArrowForwardIosRoundedIcon className="ml-16 size-4" />{" "}
           </Link>
         </div>
         <div>
           <Link href={""}>
-            Men's Fashion
+            Men&apos;s Fashion
             <ArrowForwardIosRoundedIcon className="ml-[86px] size-4" />{" "}
           </Link>
         </div>
@@ -37,7 +37,7 @@ const Landingtop = () => {
         </div>
         <div>
           {" "}
-          <Link href={""}>Baby's and Toys </Link>
+          <Link href={""}>Baby&apos;s and Toys </Link>
         </div>
         <div>
           {" "}

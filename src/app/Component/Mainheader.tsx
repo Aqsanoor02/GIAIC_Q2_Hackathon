@@ -1,10 +1,12 @@
 import React from "react";
 import Cartprofile from "./Cartprofile";
 import Link from "next/link";
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import Home from "../page";
 import Signup from "../Signup/page";
-import SearchOutlinedIcon from "@mui/icons-material/SearchOutlined";
 import { SearchOutlined } from "@mui/icons-material";
+/* eslint-enable @typescript-eslint/no-unused-vars */
+import SearchOutlinedIcon from "@mui/icons-material/SearchOutlined";
 import KeyboardArrowDownSharpIcon from '@mui/icons-material/KeyboardArrowDownSharp';
 
 const Mainheader = () => {
